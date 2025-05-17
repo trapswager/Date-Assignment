@@ -38,6 +38,6 @@ java Main
 
 Author: Adel Azhieva
 
-**Screenshots**
+![Example of the program's operation](Screenshot0.png)
 
 
